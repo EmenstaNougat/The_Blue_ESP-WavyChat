@@ -1,8 +1,8 @@
 # The Blue ESP - Wireless Chat Firmware - ORIGINAL FIRMWARE
 
-![The Blue ESP 1](https://dwdwpld.pages.dev/theblueesp1.png) ![The Blue ESP 2](https://dwdwpld.pages.dev/theblueesp2.png)
+<img src="images/theblueesp.png" alt="The Blue ESP 1" width="45%"> <img src="images/theblueesp2.png" alt="The Blue ESP 2" width="45%">
 
-![Wavy Chat Preview](https://dwdwpld.pages.dev/wavychat.png)
+![Wavy Chat Preview](images/wavychat.png)
 
 ---
 
