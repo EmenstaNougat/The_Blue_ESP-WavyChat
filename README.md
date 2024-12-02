@@ -1,6 +1,6 @@
 # The Blue ESP - Wireless Chat Firmware - ORIGINAL FIRMWARE
 
-<img src="https://dwdwpld.pages.dev/theblueesp1.png" alt="The Blue ESP 1" width="45%"> <img src="https://dwdwpld.pages.dev/theblueesp2.png" alt="The Blue ESP 2" width="45%">
+<img src="https://dwdwpld.pages.dev/theblueesp1.png" alt="The Blue ESP 1" width="50%"> <img src="https://dwdwpld.pages.dev/theblueesp2.png" alt="The Blue ESP 2" width="50%">
 
 ![Wavy Chat Preview](https://dwdwpld.pages.dev/wavychat.png)
 
@@ -20,8 +20,7 @@ This repository contains the original firmware for "The Blue ESP" PCB. The firmw
 
 ### Hardware Requirements
 - **[The Blue ESP](https://datechlabs.com/products/the-blue-esp-pre-order)** by [@donanontech](https://github.com/DonAnonymousio) and [@emensta](https://github.com/emenstanougat).
-- ESP32 Development Board.
-- nRF24L01+ Module.
+- 2x nRF24L01+ Modules.
 - data-USB cable for programming the ESP32.
 - Arduino IDE installed or any other serial monitor (web, etc.).
 
@@ -29,7 +28,7 @@ This repository contains the original firmware for "The Blue ESP" PCB. The firmw
 
 ## Installation
 
-1. The Blue ESP firmware can be conveniently flashed via the [online flashing tool](https://the-blue-esp-wavychat.pages.dev).
+1. The Blue ESP firmware can be conveniently flashed via the [webflasher](https://the-blue-esp-wavychat.pages.dev).
 
 ---
 
