@@ -39,9 +39,10 @@ This repository contains the original firmware for "The Blue ESP" PCB. The firmw
 
 1. Power on the ESP32 module with the flashed firmware.
 2. Open the Serial Monitor (set baud rate to **9600**) in the Arduino IDE or your serial monitor (web, etc.).
-3. Enter a username when prompted.
-4. Start chatting by typing your message and pressing Enter.
-5. Messages will be transmitted wirelessly to other devices running the same firmware.
+3. Press the **EN** button on the ESP32 to reboot it.
+4. Enter a username when prompted.
+5. Start chatting by typing your message and pressing Enter.
+6. Messages will be transmitted wirelessly to other devices running the same firmware.
 
 ---
 
